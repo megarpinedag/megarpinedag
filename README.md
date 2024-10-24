@@ -1,7 +1,8 @@
 # Hello Dev World! 🌎
-- 👋 Hi, I’m Armando Gama @megarpinedag
+- 👋 Hi, I’m Armando Gama
 - 👀 I’m interested in Back End development...
 - 📍 Based in Guadalajara, Jalisco, México 
+- 💻 Skilled in JavaScript, NodeJS, C#, PostgreSQL, MSSQL Server
 - ⚡ Fun fact: I love coffee.
 
 <!---
